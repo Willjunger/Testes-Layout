@@ -1,0 +1,16 @@
+.container{
+    width: 70%;
+    height: 100%;
+    margin: 0 auto;
+}
+
+.fadeOut{
+    opacity: 0;
+    transition: 0.5s
+}
+
+.teste{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+}
